@@ -107,7 +107,7 @@ directions = "Arriver au Croisement Biay-De la Révolution et compter la deuxiè
 office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -115,7 +115,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Albertandemsj"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/DfoAe6IHMPQ1"},
   {icon = "facebook", icon_pack = "fab", name = "Facebook Me", link = "https://www.facebook.com/albert.gubanja"},
-  {icon = "instagram", icon_pack = "fas", name = "My Instagram", link = "https://www.instagram.com/andemus1/?hl=fr"},
+  {icon = "instagram", icon_pack = "fab", name = "My Instagram", link = "https://www.instagram.com/andemus1/?hl=fr"},
   {icon = "linkedin", icon_pack = "fab", name = "Find me on LindkedIn", link = "https://www.linkedin.com/in/albert-andemir-irenge-gubanja-1477a7198/"},
   {icon = "youtube", icon_pack = "fab", name = "My YouTube channel", link = "https://www.youtube.com/channel/UCyEaYrHxtOAVrp-Het34XMA/featured?view_as=subscriber"},
   ]
