@@ -29,4 +29,5 @@ projects: []
 ---
 Voilà une publication intéressante.
 C'est la prmière depuis un certain temps.
-Merci beaucoup pour la reflexion
+Merci beaucoup pour la reflexion.
+C'est vraiment cool
