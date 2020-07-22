@@ -79,6 +79,6 @@ user_groups:
 
 Albert Gubanja, called Andemus by classemates, is a Beta Microsoft Sutdent Partner and Software engeniring student at ESIS (Ecole Supérieure d'Informatique Salama) in Lubumbashi. His research interests include distributed Machine Learning, Deep Learning, Text Mining, Programing with C# and Python, Networking adminstration, Cybersecurity and environnemental technologie. He leads the World Merit Lubumbashi, a Council of World Merit.
 
-#![reviews](../../img/certifacates.jpg)
+![reviews](me.jpeg)
 
 Albert Gubanja, called Andemus by classemates, is a Beta Microsoft Sutdent Partner and Software engeniring student at ESIS (Ecole Supérieure d'Informatique Salama) in Lubumbashi. His research interests include distributed Machine Learning, Deep Learning, Text Mining, Programing with C# and Python, Networking adminstration, Cybersecurity and environnemental technologie. He leads the World Merit Lubumbashi, a Council of World Merit.
