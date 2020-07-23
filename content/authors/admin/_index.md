@@ -42,6 +42,13 @@ education:
   - course: CCNA II Switchin and Rooting
     institution: CISCO Academy
     year: 2019
+  - course: Azure foundamentals
+    institution: Microsoft Learn
+    year: 2020
+  - course: English Language advanced
+    institution: Hernandez Verra Training Center/Zambia
+    year: 2018
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -88,6 +95,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Albert Gubanja, called Andemus by classemates, is a Beta Microsoft Sutdent Partner and Software engeniring student at ESIS (Ecole Supérieure d'Informatique Salama) in Lubumbashi. His general interests include distributed Computer Science, Artificial Intelligence, Programing, Networks adminstration, youth empowerement, digital education and online learning, the environment, medias and design. He leads the World Merit Lubumbashi, a Council of World Merit since January 2020. He is the President of ESIS-ECOLOGIE, a student team promoting ecological values in Universties.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Albert Gubanja, called Andemus by classemates, is a Beta Microsoft Sutdent Partner and Software engeniring student at ESIS (Ecole Supérieure d'Informatique Salama) in Lubumbashi. His general interests include distributed Computer Science, Artificial Intelligence, Programing, Networks adminstration, youth empowerement, digital education and online learning, the environment, medias and design. He leads the World Merit Lubumbashi, a Council of World Merit since January 2020. He is the President of ESIS-ECOLOGIE, a student team promoting ecological values in Universties.
+
+Albert Gubanja, called Andemus by classemates, is a Beta Microsoft Sutdent Partner and Software engeniring student at ESIS (Ecole Supérieure d'Informatique Salama) in Lubumbashi. His general interests include distributed Computer Science, Artificial Intelligence, Programing, Networks adminstration, youth empowerement, digital education and online learning, the environment, medias and design. He leads the World Merit Lubumbashi, a Council of World Merit since January 2020. He is the President of ESIS-ECOLOGIE, a student team promoting ecological values in Universties.
+
+
+
