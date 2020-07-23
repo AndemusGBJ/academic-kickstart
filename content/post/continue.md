@@ -5,8 +5,8 @@ title: "Welcome to my Personal web site"
 subtitle: "The first on"
 summary: "Je suis très content de pouvoir réaliser ce site web. Cela va tout droit au but. Et je suis sûr que nous irons un peu plus loin avec"
 authors: []
-tags: ["Programing"]
-categories: ["Programing"]
+tags: ["random"]
+categories: ["general"]
 date: 2020-07-22T11:04:29+02:00
 lastmod: 2020-07-22T11:04:29+02:00
 featured: false
