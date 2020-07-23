@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Lubumbashi"
   date_start = "2020-01-20"
   date_end = ""
-  description = """Local Merit Council for World Merit : A global platform for passionate, collaborative young changemakers making a positive impact for a World of Merit"""
+  description = """Local Merit Council for World Merit : A global platform for passionate, collaborative young changemakers making a positive impact for a World of Merit
   Responsibilities include:
   
   * Growth and Development
@@ -40,7 +40,8 @@ date_format = "Jan 2006"
   location = "Lubumbashi"
   date_start = "2019-03-24"
   date_end = ""
-  description = """ESIS-ECOLOGIE is a Prossors and students group from Ecole Supérieur d'Informatique Salama, tackling environment and ecological crisis."""
+  description = """ESIS-ECOLOGIE is a Prossors and students group from Ecole Supérieur d'Informatique Salama, tackling environment and ecological crisis.
+
   Responsibilities include:
   
   * Leadership and managment
@@ -56,7 +57,8 @@ date_format = "Jan 2006"
   location = "Lubumbashi"
   date_start = "2015-09-03"
   date_end = "2017-07-14"
-  description = """CTM = Collège Technique Mwapusukeni. A secondary school"""
+  description = """CTM = Collège Technique Mwapusukeni. A secondary school.
+
   Responsibilities include:
   
   * Disciplinary
@@ -71,13 +73,15 @@ date_format = "Jan 2006"
   location = "Lubumbashi"
   date_start = "2019-03-24"
   date_end = ""
-  description = """ESIS-ECOLOGIE is a Prossors and students group from Ecole Supérieur d'Informatique Salama, tackling environment and ecological crisis."""
+  description = """ESIS-ECOLOGIE is a Prossors and students group from Ecole Supérieur d'Informatique Salama, tackling environment and ecological crisis.
+
   Responsibilities include:
   
   * Leadership and managment
   * Strategic Year Plan
   * Members empowerment 
   * Reports 
+  """
 
 
 +++
