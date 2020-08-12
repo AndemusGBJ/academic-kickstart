@@ -7,8 +7,8 @@ summary: "Je suis très content de pouvoir réaliser ce site web. Cela va tout d
 authors: []
 tags: ["random"]
 categories: ["general"]
-date: 2020-07-22T11:04:29+02:00
-lastmod: 2020-07-22T11:04:29+02:00
+date: 2020-07-23T11:04:29+02:00
+lastmod: 2020-07-23T11:04:29+02:00
 featured: false
 draft: false
 
