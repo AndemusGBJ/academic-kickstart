@@ -60,7 +60,7 @@ social:
   link: "mailto:albert.gubanja@studentpartner.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/albert.gubanja
+  link: https://www.facebook.com/albert.gubanja/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Albertandemsj
@@ -94,10 +94,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Albert Gubanja, called Andemus by classemates, is a Beta Microsoft Sutdent Partner and Software engeniring student at ESIS (Ecole Supérieure d'Informatique Salama) in Lubumbashi. His general interests include distributed Computer Science, Artificial Intelligence, Programing, Networks adminstration, youth empowerement, digital education and online learning, the environment, medias and design. He leads the World Merit Lubumbashi, a Council of World Merit since January 2020. He is the President of ESIS-ECOLOGIE, a student team promoting ecological values in Universties.
-
-Albert Gubanja, called Andemus by classemates, is a Beta Microsoft Sutdent Partner and Software engeniring student at ESIS (Ecole Supérieure d'Informatique Salama) in Lubumbashi. His general interests include distributed Computer Science, Artificial Intelligence, Programing, Networks adminstration, youth empowerement, digital education and online learning, the environment, medias and design. He leads the World Merit Lubumbashi, a Council of World Merit since January 2020. He is the President of ESIS-ECOLOGIE, a student team promoting ecological values in Universties.
 
 Albert Gubanja, called Andemus by classemates, is a Beta Microsoft Sutdent Partner and Software engeniring student at ESIS (Ecole Supérieure d'Informatique Salama) in Lubumbashi. His general interests include distributed Computer Science, Artificial Intelligence, Programing, Networks adminstration, youth empowerement, digital education and online learning, the environment, medias and design. He leads the World Merit Lubumbashi, a Council of World Merit since January 2020. He is the President of ESIS-ECOLOGIE, a student team promoting ecological values in Universties.
 
