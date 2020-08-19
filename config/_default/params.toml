@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "albert.gubanja@studentpartner.com"
+email = "albert.gubanja@studentambassadors.com"
 phone = "+243 821 737 532"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "20 avenue Biayi", city = "Lubumbashi", region = "HK", postcode = "000000", country = "Conog (DRC)", country_code = "CD"}
+address = {street = "20 avenue Biayi", city = "Lubumbashi", region = "HK", postcode = "7110506", country = "Conog (DRC)", country_code = "CD"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,7 +104,7 @@ directions = "Arriver au Croisement Biay-De la Révolution et compter la deuxiè
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+#office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -112,9 +112,9 @@ office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Albertandemsj"},
+  {icon = "twitter", icon_pack = "fab", name = "My Twitter", link = "https://twitter.com/Albertandemsj"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/DfoAe6IHMPQ1"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebook Me", link = "https://www.facebook.com/albert.gubanja"},
+  {icon = "facebook", icon_pack = "fab", name = "Find me on Facebook", link = "https://www.facebook.com/albert.gubanja"},
   {icon = "instagram", icon_pack = "fab", name = "My Instagram", link = "https://www.instagram.com/andemus1/?hl=fr"},
   {icon = "linkedin", icon_pack = "fab", name = "Find me on LindkedIn", link = "https://www.linkedin.com/in/albert-andemir-irenge-gubanja-1477a7198/"},
   {icon = "youtube", icon_pack = "fab", name = "My YouTube channel", link = "https://www.youtube.com/channel/UCyEaYrHxtOAVrp-Het34XMA/featured?view_as=subscriber"},
@@ -128,7 +128,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "Albert Gubanja"
 
 ############################
 ## Regional Settings
