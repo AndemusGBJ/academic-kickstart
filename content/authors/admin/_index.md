@@ -95,7 +95,8 @@ user_groups:
 - Visitors
 ---
 
-Albert Gubanja, called Andemus by classemates, is a Beta Microsoft Sutdent Partner and Software engeniring student at ESIS (Ecole Supérieure d'Informatique Salama) in Lubumbashi. His general interests include distributed Computer Science, Artificial Intelligence, Programing, Networks adminstration, youth empowerement, digital education and online learning, the environment, medias and design. He leads the World Merit Lubumbashi, a Council of World Merit since January 2020. He is the President of ESIS-ECOLOGIE, a student team promoting ecological values in Universties.
+Albert Gubanja (Andemus), un Beta Microsoft Learn Sutdent Ambassador, est un jeune jésuite étudiant en génie logiciel à l'ESIS (Ecole Supérieure d'Informatique Salama) de Lubumbashi. Ses intérêts généraux incluent l'informatique, l'intelligence artificielle et le machine learning, la programmation web, l'administration de réseaux informatiques, l'éducation numérique et l'apprentissage en ligne, l'environnement, les médias, la communication et le design. Il dirige le World Merit Lubumbashi, un Conseil du World Merit engageant la jeunesse dans la réalisation des Objectifs de Développement Durable des Nations Unies. Il est Président de l'ESIS-ECOLOGIE, une équipe étudiante promouvant les valeurs écologiques en milieux universitaires.
 
+Passionné des technologies Microsoft, 
 
 
