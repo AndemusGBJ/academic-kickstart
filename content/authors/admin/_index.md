@@ -97,6 +97,6 @@ user_groups:
 
 Albert Gubanja (Andemus), un Beta Microsoft Learn Sutdent Ambassador, est un jeune jésuite étudiant en génie logiciel à l'ESIS (Ecole Supérieure d'Informatique Salama) de Lubumbashi. Ses intérêts généraux incluent l'informatique, l'intelligence artificielle et le machine learning, la programmation web, l'administration de réseaux informatiques, l'éducation numérique et l'apprentissage en ligne, l'environnement, les médias, la communication et le design. Il dirige le World Merit Lubumbashi, un Conseil du World Merit engageant la jeunesse dans la réalisation des Objectifs de Développement Durable des Nations Unies. Il est Président de l'ESIS-ECOLOGIE, une équipe étudiante promouvant les valeurs écologiques en milieux universitaires.
 
-Passionné des technologies Microsoft, 
+En tant que Microsoft Learn Student Ambassador, j'organise des events et des workshops, j'écris des blogposts, enregistre des tutos, tout cela dans le but de partager la connaissance, de promouvoir la technologie et de faire grandir la communauté. 
 
 
