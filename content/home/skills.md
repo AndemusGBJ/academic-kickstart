@@ -38,4 +38,21 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   name = "Research"
   parcent = "95%"
 
+[[feature]]
+  icon = "searchengin"
+  icon_pack = "fab"
+  name = "Research"
+  parcent = "95%"
+
+[[feature]]
+  icon = "searchengin"
+  icon_pack = "fab"
+  name = "Research"
+  parcent = "95%"
+
+[[feature]]
+  icon = "searchengin"
+  icon_pack = "fab"
+  name = "Research"
+  parcent = "95%"
 +++
